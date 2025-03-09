@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "@aiscript-dev/aiscript-languageserver",
+  "name": "@nekoplanet/aiscript-languageserver",
   "version": "0.1.6",
   "bin": {
     "aiscript-languageserver": "./.dist/features/cli/index.js"

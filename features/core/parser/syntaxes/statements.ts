@@ -584,7 +584,7 @@ function parseStatementWithAttr(
     statement.attr = attrs;
   }
 
-  return statement;
+  return statement as Ast.Statement | null;
 }
 
 /**
